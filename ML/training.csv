@@ -1,0 +1,4 @@
+1,sunny,warm,normal,strong,warm,same,positive
+2,sunny,warm,high,strong,warm,same,positive
+3,rainy,cool,high,strong,warm,change,negative
+4,sunny,warm,high,strong,cool,change,positive
